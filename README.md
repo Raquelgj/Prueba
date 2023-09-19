@@ -6,7 +6,7 @@
 - En 2018 (4 de junio de 2018 - 26 de octubre 2018), Microsoft anunció y compró respectivamente la compañía por un importe de más de 7000 millones de dólares.
 - El 28 de julio de 2020 GitHub hizo pública su hoja de ruta donde da a conocer todos los nuevos avances y los desarrollos futuros que prepara esta plataforma.
   
-![captura github] (/imagenes/microsoft-github-1024x682.jpg)
+![captura github](/imagenes/microsoft-github-1024x682.jpg)
 
 
 
